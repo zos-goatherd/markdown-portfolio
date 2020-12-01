@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+I have a strong background in *Information technology* and *customer service*
+I am studying **Python**, **networking**, and **server administration**
