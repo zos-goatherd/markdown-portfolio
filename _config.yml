@@ -1,2 +1,4 @@
 title: Welcome to my portfolio!
 theme: minima
+minima:
+  skin: dark
